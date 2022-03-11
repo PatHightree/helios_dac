@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HeliosLaserDac" Version="1.0.0" />
+    <PackageReference Include="libusb-win32-driver" Version="1.2.6" />
+    <PackageReference Include="LibUsbDotNet" Version="2.2.29" />
   </ItemGroup>
 
 </Project>
